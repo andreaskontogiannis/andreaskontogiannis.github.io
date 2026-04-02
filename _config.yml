@@ -11,9 +11,9 @@ title                    : "Andreas Kontogiannis"
 title_separator          : "-"
 name                     : &name "Andreas Kontogiannis"
 description              : &description "BSc and M.Eng. in Electrical & Computer Engineering from National Technical University of Athens"
-url                      : https://ddaedalus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andreaskontogiannis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ddaedalus.github.io"
+repository               : "andreaskontogiannis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ddaedalus"
+  github           : "andreaskontogiannis"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # 13485850/ddaedalus
+  stackoverflow    : # 13485850/andreaskontogiannis
   uri              :
   steam            :
   tumblr           :
