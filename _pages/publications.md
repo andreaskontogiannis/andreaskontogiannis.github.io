@@ -11,6 +11,14 @@ redirect_from:
 
 <br/>
 (2026) <i><b> 
+The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
+<br/>
+_<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)]
+
+<br/>
+(2026) <i><b> 
 Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos and I. Panageas.
