@@ -23,7 +23,7 @@ In general, my research lies at the intersection of game theory, online learning
 * AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
-- 2026/04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
+- 2026.04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
 - 2026.01: One paper accepted at AISTATS 2026.
 - 2025.11: I am visiting Prof. Ioannis Panageas at UC Irvine.
 - 2025.09: One paper accepted at NeurIPS 2025.
