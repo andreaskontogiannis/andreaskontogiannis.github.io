@@ -13,7 +13,7 @@ redirect_from:
 (2026) <i><b> 
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
 <br/> 
-(αβ) <u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
+[αβ] <u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
 <br/>
 _<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)]
 
