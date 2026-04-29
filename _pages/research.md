@@ -14,10 +14,13 @@ Below, I outline the main research pillars of my work:
 ### Game Theory & Online Learning: No-regret learning under imperfect information
 
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 
-Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against a possibly adaptive, best-in-hindsight benchmark. 
+Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
 #### Main results
-- A kernelization framework for learning in *polyhedral games* under bandit and semi-bandit feedback, which facilitates efficient implementation and sampling for the widely used GeometricHedge/ComBand and Exp3-IX algorithms in settings with combinatorial structure. Our work provides state-of-the-art results for learning coarse correlated equilibria a wide array of games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
+- A kernelization framework for learning in *polyhedral games* under bandit and semi-bandit feedback, which facilitates efficient implementation and sampling for the widely used GeometricHedge/ComBand and Exp3-IX algorithms [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning coarse correlated equilibria across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
+- No swap regret in combinatorial bandits: One of the most challenging questions in the online learning community has been how to design computationally efficient, no-swap-regret algorithms for which both the swap regret (a powerful benchmark associated with correlated equilibria, a fundamental solution concept in economics) and the per-iteration complexity depend polylogarithmically on the possibly very large number of the available actions. Although this question has been resolved for the standard experts setting and the established approaches are applicable to the adversarial combinatorial bandit setting, they fail to achieve the desired polylogarithmic dependence of the swap regret and the per-iteration complexity on the number of actions. Our work provides the first efficiently implementable algorithm that achieves no-swap-regret with polylogarithmic dependence on the large action space of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
+
+
 
 
 <br/>
@@ -28,21 +31,6 @@ The Computational Complexity of Avoiding Strict Saddle Points in Constrained Opt
 <br/>
 _<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)]
 
-<br/>
-(2026) <i><b> 
-Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos and I. Panageas.
-<br/>
-_<font color="red">AISTATS 2026</font>_ [[paper](https://arxiv.org/abs/2602.02087)]
-
-<br/>
-(2025) <i><b> 
-Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos and I. Panageas.
-<br/>
-_<font color="red">NeurIPS 2025</font>_ [[paper](https://arxiv.org/abs/2509.20919)]
 
 <br/>
 (2025) <i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration </b> </i> 
