@@ -16,6 +16,8 @@ Below, I outline the main research pillars of my work:
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 
 Specifically, I'm particularly interested in studying *decentralized online learning in games*, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against a possibly adaptive, best-in-hindsight benchmark. 
 
+
+
 <br/>
 (2026) <i><b> 
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
