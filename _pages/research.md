@@ -17,7 +17,7 @@ In this research pillar, we investigate the convergence properties and structura
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against a possibly adaptive, best-in-hindsight benchmark. 
 
 #### Main results
-- j
+- A kernelization framework for learning in *polyhedral games* under bandit and semi-bandit feedback, which facilitates efficient implementation and sampling for the widely used GeometricHedge/ComBand and Exp3-IX algorithms in settings with combinatorial structure. Our work provides state-of-the-art results for learning coarse correlated equilibria a wide array of games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
 
 
 <br/>
