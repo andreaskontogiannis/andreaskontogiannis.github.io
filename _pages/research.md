@@ -17,7 +17,7 @@ In this research pillar, we investigate the convergence properties and structura
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against a possibly adaptive, best-in-hindsight benchmark. 
 
 #### Main results
-
+- j
 
 
 <br/>
