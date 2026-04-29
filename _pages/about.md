@@ -18,7 +18,7 @@ Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFs
 
 In general, my research spans game theory, online learning, reinforcement learning and computational complexity. Current areas of interest include: 
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
-* The computational complexity of hard problems in game theory and optimization
+* The computational complexity of hard problems in game theory and non-convex optimization
 * No-regret learning under imperfect information
 * AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
