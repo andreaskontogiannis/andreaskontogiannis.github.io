@@ -32,5 +32,5 @@ In general, my research spans game theory, online learning, reinforcement learni
 - 2024.05: One paper accepted at ICML 2024.
 
 ## Academic Service
-* Reviewing: **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026), **AISTATS** (2025-present), **UAI** (2026-present)
+* Reviewing: **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026), **AISTATS** (2025-present), **UAI** (2026)
 
