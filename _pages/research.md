@@ -9,7 +9,11 @@ redirect_from:
 
 In general, my research spans game theory, online learning, multi-agent reinforcement learning and computational complexity, and their applications to agentic AI. 
 The ultimate goal of my research is to develop theoretically principled solutions to algorithmic challenges, drawing inspiration from modern decision-making environments and AI, in order to bridge the gap between real-world application and fundamental computational understanding.
-Below, I outline the research pillars of my work.
+Below, I outline the main research pillars of my work:
+
+#### No-regret learning under imperfect information
+
+In this research pillar, I investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. Specifically, I'm particularly interested in studying *decentralized online learning in games*, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against the best-in-hindsight benchmark.
 
 <br/>
 (2026) <i><b> 
