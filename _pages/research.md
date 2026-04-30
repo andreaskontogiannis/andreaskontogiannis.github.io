@@ -20,7 +20,7 @@ Specifically, I'm particularly interested in studying *decentralized online lear
 - **Learning in polyhedral settings**: We provided a kernelization framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit* feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated <span style="font-variant: small-caps;">Exp3-IX</span> algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning *coarse correlated equilibria* across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
 We also managed to provide the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
 
-### _<font color="MediumSeaGreen">The computational complexity of finding stationary points and equilibria </font>_
+### _<font color="MediumSeaGreen">The complexity of finding stationary points and equilibria </font>_
 
 This research pillar investigates the computational complexity of fundamental problems in non-convex optimization (**OPT**) and game theory (**GT**):
 
