@@ -24,23 +24,17 @@ We also managed to provide the *first efficiently implementable algorithm* for *
 
 ### The computational complexity of non-convex optimization
 
-The main direction of this research pillar investigates the computational complexity of fundamental problems in non-convex optimization. Our goal is to advance the computational understanding of finding *second-order stationary points* in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points that may be *strict saddle points*. Therefore, our main research question is the following:
+The main direction of this research pillar investigates the computational complexity of fundamental problems in non-convex optimization. Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points (FOSPs) that may be *strict saddle points*. Therefore, our main research question is the following:
 
 > *What is the computational complexity of avoiding strict saddle points both in unconstrained and constrained non-convex optimization?*
 
 #### _<font color="blue">Our contribution and its significance</font>_
-
+We prove that the problem is *PLS-complete* both in unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) and constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) optimization. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed to do so), there exists no iterative algorithm with a continuous, efficiently update rule (such Gradient descent or the Newton's method) for finding SOSPs! Thus, our results further imply that the inherent "discreteness" of PLS-hard problems fundamentally clashes with the requirement of algorithmic continuity. Moreover, 
 
 ### Agentic AI & Multi-Agent Reinforcement Learning
 
 
-<br/>
-(2026) <i><b> 
-The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
-<br/> 
-[αβ] <u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
-<br/>
-_<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)]
+
 
 
 <br/>
@@ -63,5 +57,5 @@ _<font color="red">AAMAS 2025</font>_ [[paper](https://www.arxiv.org/abs/2502.04
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis and I. Panageas.
 <br/>
-_<font color="red">ICML 2024</font>_ [[paper](https://openreview.net/forum?id=t8WDBcegae)]
+_<font color="red">ICML 2024</font>_ []
 
