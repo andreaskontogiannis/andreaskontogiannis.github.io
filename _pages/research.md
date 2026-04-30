@@ -7,16 +7,16 @@ redirect_from:
   - /research.md
 ---
 
-In general, my research spans game theory, online learning, multi-agent reinforcement learning and computational complexity, and their applications to agentic AI. 
+In general, my research spans game theory, online learning, multi-agent reinforcement learning and computational complexity, as well as their applications to agentic AI. 
 The ultimate goal of my research is to develop theoretically principled solutions to algorithmic challenges, drawing inspiration from modern decision-making environments and AI, in order to bridge the gap between real-world application and fundamental computational understanding.
 Below, I outline the main research pillars of my work:
 
 ### Game Theory & Online Learning: No-regret learning under imperfect information
 
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 
-Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as Nash equilibria or correlated equilibria—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
+Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
-#### _<font color="red">_Main results</font>
+#### _<font color="blue">_Main results</font>_
 - A kernelization framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit*
 feedback), which facilitates efficient implementation and sampling for the widely used GeometricHedge/ComBand and Exp3-IX algorithms [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning *coarse correlated equilibria* across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
 - The *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
