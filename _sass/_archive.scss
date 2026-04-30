@@ -2,16 +2,29 @@
    ARCHIVE
    ========================================================================== */
 
+// .archive {
+//   margin-bottom: 2em;
+
+//   @include breakpoint($medium) {
+//     @include span(12 of 12);
+//   }
+
+//   @include breakpoint($large) {
+//     @include span(10 of 12 last);
+//     @include prefix(0.5 of 12);
+//   }
+
 .archive {
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
-    @include span(12 of 12);
+    @include span(12 of 12); /* Already full width at medium */
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    /* CHANGED: increased span from 10 to 12 and removed the 0.5 prefix */
+    @include span(12 of 12); 
+    @include prefix(0); 
   }
 
   a {
