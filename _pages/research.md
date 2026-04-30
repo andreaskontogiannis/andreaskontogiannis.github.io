@@ -18,7 +18,7 @@ Specifically, I'm particularly interested in studying *decentralized online lear
 
 #### _<font color="blue">Main results</font>_
 - A kernelization framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit*
-feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit GeometricHedge/ComBand algorithm and the celebrated Exp3-IX algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning *coarse correlated equilibria* across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
+feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated Exp3-IX algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning *coarse correlated equilibria* across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
 We also managed to provide the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
 
 ### The computational complexity of non-convex optimization
