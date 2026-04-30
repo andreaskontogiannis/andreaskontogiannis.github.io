@@ -1,7 +1,7 @@
 ---
 permalink: /research_/
 title: ""
-author_profile: false
+author_profile: true
 redirect_from: 
   - /research
   - /research.md
@@ -30,30 +30,13 @@ The main direction of this research pillar investigates the computational comple
 #### _<font color="blue">Our contribution and its significance</font>_
 We proved that the problem is *PLS-complete* both in unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) and constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) optimization; thereby resolving important open questions in the field. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed to do so), there exists no iterative algorithm with a continuous, efficiently implementable update rule (such Gradient Descent or the Newton's method) for finding SOSPs! 
 
-### Agentic AI & Multi-Agent Reinforcement Learning
+### Agentic AI & Multi-agent reinforcement learning
 
-The main direction of this research pillar is to study how AI agents effectively coordinate toward shared objectives in complex, fully cooperative environments. In particular, we develop novel algorithmic frameworks and methodologies based on *multi-agent reinforcement learning*. Our ultimate goal is to advance our understanding on the limits of the decentralized execution, as well as explore *agent modelling* paradigms for minimizing the *communication* requirements of multi-agent systems. Furthermore, we investigate how LLM-based agents can act in challenging social deduction games—such as *Among Us*—that is, multi-agent environments of imperfect information characterized by a fundamental asymmetry: an informed minority operates against an uninformed majority. Such environments are of remarkable interest, as they often demand that an agent build and sustain a robust internal world model to accurately track the hidden states of others and deduce topological constraints while identifying, or even leveraging *deception*.
+The main direction of this research pillar is to study how AI agents effectively coordinate toward shared objectives in complex, fully cooperative environments. In particular, we develop novel algorithmic frameworks and methodologies based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding on the limits of *decentralized execution*, as well as explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, possibly under safety constraints. 
 
-
-<br/>
-(2025) <i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration </b> </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
-<br/>
-_<font color="red">ICML 2025</font>_ [[paper](https://www.arxiv.org/abs/2505.05262)] [[code](https://github.com/ddaedalus/smpe/tree/main)]
-
-<br/>
-(2025) <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
-<br/> 
-G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
-<br/>
-_<font color="red">AAMAS 2025</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)] [[code](https://github.com/AILabDsUnipi/pymarlzooplus)]
+#### _<font color="blue">Main results</font>_
+- We proposed a novel MARL algorithm which leverages a novel state modelling framework for enhancing policy optimization and joint exploration in distributed partially observable environments where agents share no communication channels during execution [ICML 2025](https://www.arxiv.org/abs/2505.05262)]. Experimentally, we demonstrated that our method outperforms state-of-the-art MARL algorithms in complex fully cooperative tasks from the well-established MPE, LBF, and RWARE benchmarks.
+- In [AAMAS 2025](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ), we highlight the crucial need for expanding systematic MARL evaluation across a wider array of existing benchmarks, showing that many algorithms, hailed as state-of-the-art mostly on the widely used SMAC benchmark, may significantly underperform standard MARL baselines on fully cooperative testbeds.
 
 
-<br/>
-(2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis and I. Panageas.
-<br/>
-_<font color="red">ICML 2024</font>_ []
-
+Furthermore, we investigate how LLM-empowered agents can act in challenging social deduction games—such as *Among Us*—that is, dynamic multi-agent environments of imperfect information characterized by a fundamental asymmetry: an informed minority operates against an uninformed majority. Such games are of remarkable interest, as they often demand that a player build and sustain a robust internal world model to accurately track the hidden states of others and deduce topological constraints while identifying, or even leveraging *deceptive strategies*.
