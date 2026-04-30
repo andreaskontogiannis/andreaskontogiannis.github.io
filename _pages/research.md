@@ -23,7 +23,7 @@ We also managed to provide the *first efficiently implementable algorithm* for *
 
 ### _<font color="MediumSeaGreen">The computational complexity of finding stationary points and equilibria </font>_
 
-This research pillar investigates the computational complexity of fundamental problems in non-convex optimization (**OPT**) and game theory (**GT**):
+This research pillar investigates the computational complexity of fundamental problems in non-convex optimization (**OPT**) and computational game theory (**GT**):
 - **OPT**. Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
 
 > *What is the computational complexity of avoiding strict saddle points both in unconstrained and constrained non-convex optimization?*
