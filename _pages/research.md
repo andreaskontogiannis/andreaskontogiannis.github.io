@@ -29,7 +29,7 @@ The main direction of this research pillar investigates the computational comple
 > *What is the computational complexity of avoiding strict saddle points both in unconstrained and constrained non-convex optimization?*
 
 #### _<font color="blue">Our contribution and its significance</font>_
-We prove that the problem is *PLS-complete* both in unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) and constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) optimization. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed to do so), there exists no iterative algorithm with a continuous, efficiently update rule (such Gradient descent or the Newton's method) for finding SOSPs! Thus, our results further imply that the inherent "discreteness" of PLS-hard problems fundamentally clashes with the requirement of algorithmic continuity. Moreover, 
+We prove that the problem is *PLS-complete* both in unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) and constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) optimization. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed to do so), there exists no iterative algorithm with a continuous, efficiently implementable update rule (such Gradient descent or the Newton's method) for finding SOSPs! Thus, our results further imply that the inherent "discreteness" of PLS-hard problems fundamentally clashes with the requirement of algorithmic continuity. Moreover, 
 
 ### Agentic AI & Multi-Agent Reinforcement Learning
 
