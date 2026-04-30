@@ -45,6 +45,12 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 
 The main direction of this research pillar is to study how AI agents effectively coordinate toward shared objectives in complex, fully cooperative environments. In particular, we develop novel algorithmic frameworks and methodologies based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding on the limits of *decentralized execution*, as well as explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, possibly under safety constraints. 
 
+<div style="float: right; margin: 0 0 20px 20px; width: 35%;">
+<img src="{{ site.baseurl }}/images/lbf_results.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
+    <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
+  </p>
+</div>
+
 #### _<font color="blue">Main results</font>_
 - A novel MARL algorithm which leverages a novel state modelling framework for enhancing policy optimization and joint exploration in distributed partially observable environments where agents share no communication channels during execution [(ICML 2025)](https://www.arxiv.org/abs/2505.05262). Experimentally, we demonstrated that our method outperforms state-of-the-art MARL algorithms in complex fully cooperative tasks from the well-established MPE, LBF, and RWARE benchmarks.
 - In [(AAMAS 2025)](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ), we highlight the crucial need for expanding systematic MARL evaluation by showing that many algorithms, hailed as state-of-the-art mostly on the widely used SMAC benchmark, may significantly underperform standard MARL baselines on fully cooperative testbeds.
