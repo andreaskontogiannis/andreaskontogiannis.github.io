@@ -21,7 +21,6 @@ Specifically, I'm particularly interested in studying *decentralized online lear
 feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit GeometricHedge/ComBand algorithm and the celebrated Exp3-IX algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work provides state-of-the-art results for learning *coarse correlated equilibria* across iconic games, such as congestion games and Colonel Blotto, addressing various open questions in the field.
 We also managed to provide the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
 
-
 ### The computational complexity of non-convex optimization
 
 The main direction of this research pillar investigates the computational complexity of fundamental problems in non-convex optimization. Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points (FOSPs) that may be problematic *strict saddle points*. Therefore, our main research question is the following:
@@ -33,8 +32,7 @@ We proved that the problem is *PLS-complete* both in unconstrained [(ICML 2024)]
 
 ### Agentic AI & Multi-Agent Reinforcement Learning
 
-
-
+The main direction of this research pillar is to study how AI agents effectively coordinate toward shared objectives in complex, fully cooperative environments. In particular, we develop novel algorithmic frameworks and methodologies based on *multi-agent reinforcement learning*. Our ultimate goal is to advance our understanding on the limits of the decentralized execution, as well as explore *agent modelling* paradigms for minimizing the *communication* requirements of multi-agent systems. Furthermore, we investigate how LLM-based agents can act in challenging social deduction games—such as *Among Us*—that is, multi-agent environments of imperfect information characterized by a fundamental asymmetry: an informed minority operates against an uninformed majority. Such environments are of remarkable interest, as they often demand that an agent build and sustain a robust internal world model to accurately track the hidden states of others and deduce topological constraints while identifying, or even leveraging *deception*.
 
 
 <br/>
