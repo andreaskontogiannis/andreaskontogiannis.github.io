@@ -26,6 +26,15 @@ This research pillar investigates the complexity of fundamental problems in non-
 
 **OPT**: Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
 
+
+<div style="float: right; margin: 0 0 20px 20px; width: 35%;">
+  <img src="https://github.com/andreaskontogiannis/andreaskontogiannis.github.io/tree/main/images/sosp_3d.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">
+  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
+    <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
+  </p>
+</div>
+
+
 > *What is the computational complexity of avoiding strict saddle points both in unconstrained and constrained non-convex optimization?*
 
 #### _<font color="blue">Our contribution and its significance</font>_
