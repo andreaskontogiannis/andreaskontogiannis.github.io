@@ -28,8 +28,7 @@ This research pillar investigates the complexity of fundamental problems in non-
 
 
 <div style="float: right; margin: 0 0 20px 20px; width: 35%;">
-  <img src="https://github.com/andreaskontogiannis/andreaskontogiannis.github.io/tree/main/images/sosp_3d.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">
-  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
+<img src="{{ site.baseurl }}/images/sosp_3d.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
     <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
   </p>
 </div>
