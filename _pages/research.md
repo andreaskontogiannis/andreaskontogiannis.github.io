@@ -43,7 +43,7 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 
 ### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
 
-The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex, fully cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
+The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
 
 <div style="float: right; margin: 0 0 20px 20px; width: 55%;">
 <img src="{{ site.baseurl }}/images/lbf_results.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
