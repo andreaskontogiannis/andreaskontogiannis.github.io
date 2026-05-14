@@ -15,7 +15,7 @@ The Computational Complexity of Avoiding Strict Saddle Points in Constrained Opt
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
 <br/>
-_<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)]
+_<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2604.02285)] [[slides](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)]
 
 <br/>
 (2026) <i><b> 
@@ -38,7 +38,7 @@ _<font color="red">NeurIPS 2025</font>_ [[paper](https://arxiv.org/abs/2509.2091
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
 <br/>
-_<font color="red">ICML 2025</font>_ [[paper](https://www.arxiv.org/abs/2505.05262)] [[code](https://github.com/ddaedalus/smpe/tree/main)]
+_<font color="red">ICML 2025</font>_ [[paper](https://www.arxiv.org/abs/2505.05262)] [[code](https://github.com/ddaedalus/smpe/tree/main)] [[slides](https://drive.google.com/file/d/13LHR2YnTngitKF-fXoaUcEAX9rmblnW_/view?usp=sharing)]
 
 <br/>
 (2025) <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
