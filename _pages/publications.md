@@ -14,7 +14,7 @@ redirect_from:
 Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas and A. Varvitsiotis.
-<br/>
+<br/> 
 _<font color="red">arXiv preprint (2026)</font>_ [[paper]([https://arxiv.org/pdf/2605.26373])]
 
 <br/>
