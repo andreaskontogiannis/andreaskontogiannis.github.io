@@ -15,7 +15,7 @@ Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Reg
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas and A. Varvitsiotis.
 <br/>
-_<font color="red">arXiv preprint (2026)</font>_ [[paper]([https://arxiv.org/abs/2604.02285](https://arxiv.org/pdf/2605.26373))]
+_<font color="red">arXiv preprint (2026)</font>_ [[paper]([https://arxiv.org/pdf/2605.26373])]
 
 <br/>
 (2026) <i><b> 
