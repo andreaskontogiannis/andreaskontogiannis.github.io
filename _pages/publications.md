@@ -39,7 +39,7 @@ Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos and I. Panageas.
 <br/>
-_<font color="red">NeurIPS 2025</font>_ [[paper](https://arxiv.org/abs/2509.20919)]
+_<font color="red">NeurIPS 2025</font>_ [[paper](https://arxiv.org/abs/2509.20919)] [[slides](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)]
 
 <br/>
 (2025) <i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration </b> </i> 
