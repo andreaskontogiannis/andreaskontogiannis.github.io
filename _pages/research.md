@@ -25,7 +25,7 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 
 This research pillar investigates the complexity of fundamental problems in non-convex optimization (**OPT**) and computational game theory (**GT**):
 
-**OPT**: Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
+**OPT**: Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically get stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
 
 
 <div style="float: right; margin: 0 0 20px 20px; width: 35%;">
@@ -38,7 +38,7 @@ This research pillar investigates the complexity of fundamental problems in non-
 > *What is the computational complexity of avoiding strict saddle points both in unconstrained and constrained non-convex optimization?*
 
 #### _<font color="blue">Our contribution and its significance</font>_
-We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) and unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) optimization; thereby resolving important open questions in the field. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed to do so), there exists no iterative algorithm with a continuous, efficiently implementable update rule (such as Gradient Descent or Newton's method) for finding SOSPs! Last but not least, our result in the constrained setting yields the first problem defined in a compact domain to be shown PLS-complete beyond the canonical <span style="font-variant: small-caps;">Real-LocalOpt</span>.
+We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) and unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) optimization; thereby resolving important open questions in the field. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed not to hold), there exists no iterative algorithm with a continuous, efficiently implementable update rule (such as Gradient Descent or Newton's method) for finding SOSPs! Last but not least, our result in the constrained setting yields the first problem defined in a compact domain to be shown PLS-complete beyond the canonical <span style="font-variant: small-caps;">Real-LocalOpt</span>.
 
 **GT**: Our goal is to study the computational complexity of finding equilibria in structured games, with a particular interest in *Markov games*; i.e., the game-theoretic framework capturing the problem of multi-agent reinforcement learning. The ultimate goal here is to identify the computational barriers of computing equilibria in such games and explore structured settings where we can provably escape the PPAD-hardness inherent in general normal-form games.
 
