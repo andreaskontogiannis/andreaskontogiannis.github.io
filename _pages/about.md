@@ -23,6 +23,7 @@ In general, my research spans game theory, online learning, reinforcement learni
 * AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
+- 2026.06: In July, I will attend WALE 2026 in Lemnos and Greeks-in-AI 2026 in Athens.
 - 2026.04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
 - 2026.01: One paper accepted at AISTATS 2026.
 - 2025.11: I am visiting Prof. Ioannis Panageas at UC Irvine.
