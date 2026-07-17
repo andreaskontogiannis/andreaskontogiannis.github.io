@@ -33,17 +33,18 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 
 (*What does an equilibrium looks like?*) To define an equilibrium notion in a Markov game, it is crucial to define (i) how strategies for the game are encoded; and (ii) what deviations from a putative equilibrium one considers. A policy is *Markovian* if its prescription depends only on the current state, rather than on the full history of play. Policies can also be *nonstationary*, allowing this prescription to vary with time, or *stationary*, using the same prescription whenever the same state is visited.  For finite discounted stochastic games, stationary Markov Nash equilibria (NE) are known to exist; however, they are computationally intractable due to the PPAD-hardness of NE in normal-form games. *Stationary Markov coarse correlated equilibria (CCE)* also exist as a superset of stationary Markov NE. Stationary Markov CCE provide a natural solution concept: they give a compact, time-homogeneous description of behavior, and their incentive constraints can be expressed entirely in terms of the same stationary policy.
 
-<div style="float: right; margin: 0 0 20px 20px; width: 52%;">
-<img src="{{ site.baseurl }}/images/controller.jpeg" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
-    <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
-  </p>
-</div>
-
 Prior work has established PPAD-hardness for computing stationary Markov CCE in two-player general-sum discounted stochastic games. The reductions used in these hardness results rely on turn-based constructions in which each state is controlled by a single player, with control alternating across states, so that every player controls both rewards and transitions at some states. This structure effectively collapses Markov CCE to NE, thereby allowing hardness for NE to immediately transfer to CCE. A fundamental subclass of stochastic games not captured by the above negative results is that of *single-controller Markov games*, a model which goes back to classical work on stochastic games from the 80s and generally does not satisfy this equilibrium collapse property. Therefore, a key open question is the following:
 
 > *Is the hardness of stationary Markov CCE an artifact of alternating transition control, or does it persist even when the state dynamics have single-controller structure?*
 
 #### _<font color="blue">Our contribution and its significance</font>_
+
+<div style="float: right; margin: 0 0 20px 20px; width: 100%;">
+<img src="{{ site.baseurl }}/images/controller.jpeg" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
+    <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
+  </p>
+</div>
+
 
 In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an approximate stationary Markov CCE in single-controller Markov games is PPAD-complete. The computational obstruction is more basic than previously understood: Our result shows that neither the switching-controller structure nor the equilibrium collapse property are what actually drives the hardness of stationary Markov CCE; it is enough that one player solely controls the transitions while both players affect rewards. Technically, our result is the first to show PPAD-hardness for computing CCE without relying on equilibrium collapse phenomena or reductions from hard Nash instances.
 
