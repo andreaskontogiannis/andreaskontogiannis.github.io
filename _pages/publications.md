@@ -11,6 +11,14 @@ redirect_from:
 
 <br/>
 (2026) <i><b> 
+The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </b> </i> 
+<br/> 
+[αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas and V. Pollatos.
+<br/> 
+_<font color="red">arXiv preprint (2026)</font>_ [[paper](https://arxiv.org/abs/2607.10897)]
+
+<br/>
+(2026) <i><b> 
 Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas and A. Varvitsiotis.
