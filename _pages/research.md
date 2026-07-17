@@ -33,7 +33,7 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 
 (*What does an equilibrium looks like?*) To define an equilibrium notion in a Markov game, it is crucial to define (i) how strategies for the game are encoded; and (ii) what deviations from a putative equilibrium one considers. A policy is *Markovian* if its prescription depends only on the current state, rather than on the full history of play. Policies can also be *nonstationary*, allowing this prescription to vary with time, or *stationary*, using the same prescription whenever the same state is visited.  For finite discounted stochastic games, stationary Markov Nash equilibria (NE) are known to exist; however, they are computationally intractable due to the PPAD-hardness of NE in normal-form games. *Stationary Markov coarse correlated equilibria (CCE)* also exist as a superset of stationary Markov NE. Stationary Markov CCE provide a natural solution concept: they give a compact, time-homogeneous description of behavior, and their incentive constraints can be expressed entirely in terms of the same stationary policy.
 
-<div style="float: right; margin: 0 0 20px 20px; width: 35%;">
+<div style="float: right; margin: 0 0 20px 20px; width: 52%;">
 <img src="{{ site.baseurl }}/images/controller.jpeg" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
     <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
   </p>
