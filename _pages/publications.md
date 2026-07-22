@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 # Publications
-<sup>*</sup> Equal contribution. [αβ] Authors listed in alphabetical order.
 
 <br/>
 (2026) <i><b> 
@@ -64,11 +63,13 @@ G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou
 <br/>
 _<font color="red">AAMAS 2025</font>_ [[paper]](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ) [[code]](https://github.com/AILabDsUnipi/pymarlzooplus)
 
-
 <br/>
 (2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis, and I. Panageas.
 <br/>
 _<font color="red">ICML 2024</font>_ [[paper]](https://openreview.net/forum?id=t8WDBcegae)
+
+<sup>*</sup> means equal contribution; [αβ] means authors listed in alphabetical order.
+
 
