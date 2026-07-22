@@ -7,13 +7,13 @@ redirect_from:
   - /research.md
 ---
 
-In general, my research spans computational game theory, online learning, multi-agent reinforcement learning and computational complexity, as well as their applications to agentic AI and economics. 
+In general, my research spans algorithmic game theory, online learning, multi-agent reinforcement learning and computational complexity, as well as their applications to agentic AI and economics. 
 The ultimate goal of my research is to develop theoretically principled solutions to algorithmic challenges, drawing inspiration from modern decision-making environments and AI, in order to bridge the gap between real-world application and fundamental computational understanding.
 Below, I outline the main research pillars of my work:
 
 ### _<font color="MediumSeaGreen">The complexity of finding stationary points and equilibria </font>_
 
-This research pillar investigates the complexity of fundamental problems in non-convex optimization and computational game theory:
+This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory:
 
 **Stationary Points**: Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically get stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
 
