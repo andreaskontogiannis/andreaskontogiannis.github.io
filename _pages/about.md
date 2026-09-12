@@ -18,11 +18,11 @@ _<font color="red">I expect to complete my PhD in Summer 2027 and am seeking pos
 
 ## Research Interests
 
-In general, my research spans game theory, online learning, reinforcement learning and computational complexity. Current areas of interest include: 
+In general, my research lies at the interface of theoretical computer science with algorithmic game theory, optimization, reinforcement learning, and computational complexity. Current areas of interest include: 
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
 * The computational complexity of hard problems in game theory and non-convex optimization
 * No-regret learning under imperfect information
-* AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
+* Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
 - 2026.07: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
