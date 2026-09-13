@@ -120,9 +120,9 @@ _<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper a
 _<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087)
 
 
-### _<font color="MediumSeaGreen">AI & Multi-Agent Reinforcement Learning</font>_
+### _<font color="MediumSeaGreen">Multi-Agent Learning & Reinforcement Learning</font>_
 
-The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
+We study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. We develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*, aiming to advance our understanding of the limits of *decentralized decision making*, particularly under safety constraints. 
 
 <details class="research-toggle" markdown="1">
 <summary><span style="color:blue">Main results</span> <span class="toggle-symbol"></span></summary>
