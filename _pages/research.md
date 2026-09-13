@@ -122,8 +122,6 @@ _<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087
 
 ### _<font color="MediumSeaGreen">Multi-Agent Learning & Reinforcement Learning</font>_
 
-We study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. We develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*, aiming to advance our understanding of the limits of *decentralized decision making*, particularly under safety constraints. 
-
 <details class="research-toggle" markdown="1">
 <summary><span style="color:blue">Main results</span> <span class="toggle-symbol"></span></summary>
 
