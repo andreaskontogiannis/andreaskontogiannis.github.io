@@ -22,7 +22,6 @@ In general, my research lies at the interface of theoretical computer science wi
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
 * The computational complexity of hard problems in game theory and non-convex optimization
 * No-regret learning under imperfect information
-* Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
 - 2026.07: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
