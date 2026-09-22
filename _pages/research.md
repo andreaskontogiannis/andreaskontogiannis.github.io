@@ -67,19 +67,19 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, V. Pollatos, and J. Yan.
 <br/> 
-_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2609.23879) 
+_<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2609.23879) 
 - <i>
 The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </i> 
 <br/> 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/> 
-_<font color="orange">arXiv preprint (2026)</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
+_<font color="orange">arXiv preprint</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 - <i>
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
-_<font color="orange">arXiv preprint (2026)</font>_ [[pdf]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
+_<font color="orange">arXiv preprint</font>_ [[pdf]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
 - <i> The Computational Complexity of Finding Second-Order Stationary Points </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis, and I. Panageas.
@@ -111,7 +111,7 @@ Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Reg
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
 <br/> 
-_<font color="orange">arXiv preprint (2026)</font>_ [[pdf]](https://arxiv.org/pdf/2605.26373)
+_<font color="orange">arXiv preprint</font>_ [[pdf]](https://arxiv.org/pdf/2605.26373)
 - <i>
 Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </i> 
 <br/> 
