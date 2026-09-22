@@ -70,7 +70,7 @@ Nash’s theorem guarantees that every finite game has an equilibrium, but it le
 
 #### _<font color="blue">Our contribution and its significance</font>_
 
-We prove that finding an exact positive-index Nash equilibrium in a nondegenerate bimatrix game is complete for the complexity class PPADS. This provides the *first natural complete problem for PPADS* whose input consists solely of two explicitly given payoff matrices, answering an open question posed by Constantinos Daskalakis at the Nevanlinna prize about identifying a complete problem for this class with neither circuits nor Turing machines in its input.
+We prove that finding an exact positive-index Nash equilibrium in a nondegenerate bimatrix game is complete for the complexity class PPADS. Our result answers an open question posed by Constantinos Daskalakis in his Nevanlinna Prize lecture at the 2018 International Congress of Mathematicians: identifying a natural complete problem for PPADS whose input contains neither circuits nor Turing machines.
 
 <div style="clear: both; width: 100%; margin: 20px 0;">
   <img
