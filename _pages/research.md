@@ -66,11 +66,11 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 Nash’s theorem guarantees that every finite game has an equilibrium, but it leaves open which equilibrium should be selected when several exist. Our goal is to understand the computational complexity of making this selection. A classical criterion comes from the Shapley index: in a *nondegenerate* two-player game, each equilibrium carries a topological sign, either +1 or −1. Since these indices sum to +1, an equilibrium of positive index always exists. This leads to a fundamental research question:
 
-<div style="float: right; margin: 0 0 20px 20px; width: 35%;">
-<img src="{{ site.baseurl }}/images/positive-index.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">
-<p style="font-size: 0.8em; line-height: 1.2; color: grey;">
-  <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
-</p>
+<div style="clear: both; width: 100%; margin: 20px 0;">
+  <img
+    src="{{ site.baseurl }}/images/positive-index.png"
+    alt="Reduction from Sink-of-Line to positive-index Nash equilibria"
+    style="display: block; width: 100%; height: auto; border-radius: 5px;">
 </div>
 
 > *What is the computational complexity of finding a Nash equilibrium with positive index, and how does it compare with finding an arbitrary equilibrium?*
