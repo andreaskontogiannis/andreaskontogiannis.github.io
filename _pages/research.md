@@ -63,7 +63,7 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 <u><strong>Publications</strong></u>
 
-- <i> Finding a Positive Index Nash Equilibrium is PPADS-Complete </b> </i> 
+- <i> Finding a Positive Index Nash Equilibrium is PPADS-Complete </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, V. Pollatos, and J. Yan.
 <br/> 
