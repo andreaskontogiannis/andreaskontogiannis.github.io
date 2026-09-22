@@ -16,6 +16,29 @@ Below, I outline the main research pillars of my work.
 This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory.
 
 <details class="research-toggle" markdown="1">
+<summary><span style="color:blue">Equilibrium Selection, Positive Index Nash Equilibria & PPADS</span> <span class="toggle-symbol"></span></summary>
+
+Nash’s theorem guarantees that every finite game has an equilibrium, but it leaves open which equilibrium should be selected when several exist. Our goal is to understand the computational complexity of making this selection. A classical criterion comes from the Shapley index: in a *nondegenerate* two-player game, each equilibrium carries a topological sign, either +1 or −1. Since these indices sum to +1, an equilibrium of positive index always exists. This leads to a fundamental research question:
+
+> *What is the computational complexity of finding a Nash equilibrium with positive index, and how does it compare with finding an arbitrary equilibrium?*
+
+#### _<font color="blue">Our contribution and its significance</font>_
+
+We prove that finding an exact positive-index Nash equilibrium in a nondegenerate bimatrix game is complete for the complexity class PPADS. Our result answers an open question posed by Constantinos Daskalakis in his Nevanlinna Prize lecture at the 2018 International Congress of Mathematicians: identifying a natural complete problem for PPADS whose input contains neither circuits nor Turing machines.
+
+<div style="clear: both; width: 100%; margin: 20px 0;">
+  <img
+    src="{{ site.baseurl }}/images/positive-index.png"
+    alt="Reduction from Sink-of-Line to positive-index Nash equilibria"
+    style="display: block; width: 100%; height: auto; border-radius: 5px;">
+</div>
+
+Our result reveals a computational distinction between equilibrium existence and equilibrium selection. Finding an arbitrary Nash equilibrium is PPAD-complete; requiring positive index captures the potentially larger class PPADS. These classes reflect two versions of the same directed parity principle: given a source, PPAD allows finding another source or a sink, whereas PPADS requires finding a sink. Our result also establishes a *parsimonious reduction*: the endpoints representing solutions of the underlying directed graph correspond one-to-one with the Nash equilibria of the constructed game. Our construction preserves the index—sources correspond to negative-index equilibria and sinks to positive-index equilibria—and produces globally nondegenerate games.
+
+<div style="clear: both;"></div>
+</details>
+
+<details class="research-toggle" markdown="1">
 <summary><span style="color:blue">Second-Order Stationary Points</span> <span class="toggle-symbol"></span></summary>
 
 Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically get stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
@@ -61,30 +84,6 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 </details>
 
-<details class="research-toggle" markdown="1">
-<summary><span style="color:blue">Equilibrium Selection, Positive Index Nash Equilibria & PPADS</span> <span class="toggle-symbol"></span></summary>
-
-Nash’s theorem guarantees that every finite game has an equilibrium, but it leaves open which equilibrium should be selected when several exist. Our goal is to understand the computational complexity of making this selection. A classical criterion comes from the Shapley index: in a *nondegenerate* two-player game, each equilibrium carries a topological sign, either +1 or −1. Since these indices sum to +1, an equilibrium of positive index always exists. This leads to a fundamental research question:
-
-> *What is the computational complexity of finding a Nash equilibrium with positive index, and how does it compare with finding an arbitrary equilibrium?*
-
-#### _<font color="blue">Our contribution and its significance</font>_
-
-We prove that finding an exact positive-index Nash equilibrium in a nondegenerate bimatrix game is complete for the complexity class PPADS. Our result answers an open question posed by Constantinos Daskalakis in his Nevanlinna Prize lecture at the 2018 International Congress of Mathematicians: identifying a natural complete problem for PPADS whose input contains neither circuits nor Turing machines.
-
-<div style="clear: both; width: 100%; margin: 20px 0;">
-  <img
-    src="{{ site.baseurl }}/images/positive-index.png"
-    alt="Reduction from Sink-of-Line to positive-index Nash equilibria"
-    style="display: block; width: 100%; height: auto; border-radius: 5px;">
-</div>
-
-Our result reveals a computational distinction between equilibrium existence and equilibrium selection. Finding an arbitrary Nash equilibrium is PPAD-complete; requiring positive index captures the potentially larger class PPADS. These classes reflect two versions of the same directed parity principle: given a source, PPAD allows finding another source or a sink, whereas PPADS requires finding a sink. Our result also establishes a *parsimonious reduction*: the endpoints representing solutions of the underlying directed graph correspond one-to-one with the Nash equilibria of the constructed game. Our construction preserves the index—sources correspond to negative-index equilibria and sinks to positive-index equilibria—and produces globally nondegenerate games.
-
-
-
-<div style="clear: both;"></div>
-</details>
 
 <u><strong>Publications</strong></u>
 
