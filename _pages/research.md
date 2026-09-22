@@ -61,6 +61,31 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 </details>
 
+<details class="research-toggle" markdown="1">
+<summary><span style="color:blue">Equilibrium Selection, Positive Index Nash Equilibria & PPADS</span> <span class="toggle-symbol"></span></summary>
+
+Nash’s theorem guarantees that every finite game has an equilibrium, but it leaves open which equilibrium should be selected when several exist. Our goal is to understand the computational complexity of making this selection. A classical criterion comes from the Shapley index: in a *nondegenerate* two-player game, each equilibrium carries a topological sign, either +1 or −1. Since these indices sum to +1, an equilibrium of positive index always exists. This leads to a fundamental research question:
+
+<div style="float: right; margin: 0 0 20px 20px; width: 35%;">
+<img src="{{ site.baseurl }}/images/positive-index.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">
+<p style="font-size: 0.8em; line-height: 1.2; color: grey;">
+  <!-- <em>Figure 1: Visualization of no-regret dynamics in polyhedral games.</em> -->
+</p>
+</div>
+
+> *What is the computational complexity of finding a Nash equilibrium with positive index, and how does it compare with finding an arbitrary equilibrium?*
+
+#### _<font color="blue">Our contribution and its significance</font>_
+
+We prove that finding an exact positive-index Nash equilibrium in a nondegenerate bimatrix game is complete for the complexity class PPADS. This provides the *first natural complete problem for PPADS* whose input consists solely of two explicitly given payoff matrices, answering an open question posed by Constantinos Daskalakis at the Nevanlinna prize about identifying a complete problem for this class with neither circuits nor Turing machines in its input.
+
+Our result reveals a computational distinction between equilibrium existence and equilibrium selection. Finding an arbitrary Nash equilibrium is PPAD-complete; requiring positive index captures the potentially larger class PPADS. These classes reflect two versions of the same directed parity principle: given a source, PPAD allows finding another source or a sink, whereas PPADS requires finding a sink. Our result also establishes a *parsimonious reduction*: the endpoints representing solutions of the underlying directed graph correspond one-to-one with the Nash equilibria of the constructed game. Our construction preserves the index—sources correspond to negative-index equilibria and sinks to positive-index equilibria—and produces globally nondegenerate games.
+
+
+
+<div style="clear: both;"></div>
+</details>
+
 <u><strong>Publications</strong></u>
 
 - <i> Finding a Positive Index Nash Equilibrium is PPADS-Complete </i> 
