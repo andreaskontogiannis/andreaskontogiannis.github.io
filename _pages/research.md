@@ -11,9 +11,9 @@ In general, my research spans algorithmic game theory, online learning, multi-ag
 The ultimate goal of my research is to develop theoretically principled solutions to algorithmic challenges, drawing inspiration from modern decision-making environments and AI, in order to bridge the gap between real-world application and fundamental computational understanding.
 Below, I outline the main research pillars of my work.
 
-### _<font color="MediumSeaGreen">The complexity of finding stationary points and equilibria </font>_
+### _<font color="MediumSeaGreen">The complexity of finding equilibria and stationary points </font>_
 
-This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory.
+This research pillar investigates the complexity of fundamental problems in algorithmic game theory and non-convex optimization.
 
 <details class="research-toggle" markdown="1">
 <summary><span style="color:blue">Equilibrium Selection, Positive Index Nash Equilibria & PPADS</span> <span class="toggle-symbol"></span></summary>
