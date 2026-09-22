@@ -28,12 +28,17 @@ In general, my research lies at the interface of theoretical computer science wi
 - 2026.07: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
 - 2026.06: In July, I will be at WALE 2026 in Lemnos and at Greeks-in-AI 2026 in Athens. I have two spotlight-oral presentations accepted at Greeks-in-AI 2026.
 - 2026.04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
+<details class="research-toggle" markdown="1">
+<summary><span style="color:black">Older News</span> <span class="toggle-symbol"></span></summary>
 - 2026.01: One paper accepted at AISTATS 2026.
 - 2025.11: I am visiting Prof. Ioannis Panageas at UC Irvine.
 - 2025.09: One paper accepted at NeurIPS 2025.
 - 2025.05: One paper accepted at ICML 2025.
 - 2024.12: One paper accepted at AAMAS 2025.
 - 2024.05: One paper accepted at ICML 2024.
+<div style="clear: both;"></div>
+</details>
+
 
 ## Academic Service
 * Reviewing: **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026-present), **AISTATS** (2025-present), **UAI** (2026), **TMLR**
