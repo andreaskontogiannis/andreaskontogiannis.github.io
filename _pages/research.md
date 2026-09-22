@@ -63,6 +63,11 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 <u><strong>Publications</strong></u>
 
+- <i> Finding a Positive Index Nash Equilibrium is PPADS-Complete </b> </i> 
+<br/> 
+[αβ] <u>A. Kontogiannis</u>, I. Panageas, V. Pollatos, and J. Yan.
+<br/> 
+_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2609.23879) 
 - <i>
 The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </i> 
 <br/> 
