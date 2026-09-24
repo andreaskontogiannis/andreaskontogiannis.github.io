@@ -27,19 +27,19 @@ _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/260
 
 <br/>
 (2026) <i><b> 
-Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
-<br/> 
-A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
-<br/> 
-_<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
-
-<br/>
-(2026) <i><b> 
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
+
+<br/>
+(2026) <i><b> 
+Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
+<br/> 
+A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
+<br/> 
+_<font color="red">NeurIPS 2026</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
 
 <br/>
 (2026) <i><b> 
