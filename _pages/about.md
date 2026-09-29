@@ -26,7 +26,7 @@ In general, my research lies at the interface of theoretical computer science wi
 ## Recent News
 - 2026.09: New paper on the complexity of finding positive index Nash equilibria. Our result answers an open question posed by Constantinos Daskalakis in his Nevanlinna Prize lecture at the 2018 International Congress of Mathematicians.
 - 2026.09: One paper accepted at NeurIPS 2026.
-- 2026.07: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
+- 2026.09: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece. Got accepted at SODA 2027!
 - 2026.06: In July, I will be at WALE 2026 in Lemnos and at Greeks-in-AI 2026 in Athens. I have two spotlight-oral presentations accepted at Greeks-in-AI 2026.
 - 2026.04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
 <details class="research-toggle" markdown="1">
