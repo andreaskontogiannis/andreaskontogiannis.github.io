@@ -176,6 +176,6 @@ Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling an
 _<font color="red">ICML 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[pdf]](https://www.arxiv.org/abs/2505.05262) [[code]](https://github.com/ddaedalus/smpe/tree/main) [[slides]](https://drive.google.com/file/d/13LHR2YnTngitKF-fXoaUcEAX9rmblnW_/view?usp=sharing)
 - <i> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </i> 
 <br/> 
-G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis, and G. Vouros.
+G. Papadopoulos, <u>A. Kontogiannis</u>, F. Papadopoulou, C. Poulianou, I. Koumentis, and G. Vouros.
 <br/>
 _<font color="red">AAMAS 2025</font>_ [[pdf]](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ) [[code]](https://github.com/AILabDsUnipi/pymarlzooplus)
