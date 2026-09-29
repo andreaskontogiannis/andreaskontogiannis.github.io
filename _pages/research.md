@@ -78,7 +78,7 @@ Prior work has established PPAD-hardness for computing stationary Markov CCE in 
   </p>
 </div>
 
-In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an approximate stationary Markov CCE in single-controller Markov games is PPAD-complete. Our result shows that neither the switching-controller structure nor the equilibrium collapse property are what actually drives the hardness of stationary Markov CCE; it is enough that one player solely controls the transitions while both players affect rewards. Technically, our result is the first to show PPAD-hardness for computing CCE without relying on equilibrium collapse phenomena or reductions from hard Nash instances.
+In [(SODA 2027)](https://arxiv.org/abs/2607.10897), we proved that computing an approximate stationary Markov CCE in single-controller Markov games is PPAD-complete. Our result shows that neither the switching-controller structure nor the equilibrium collapse property are what actually drives the hardness of stationary Markov CCE; it is enough that one player solely controls the transitions while both players affect rewards. Technically, our result is the first to show PPAD-hardness for computing CCE without relying on equilibrium collapse phenomena or reductions from hard Nash instances.
 
 <div style="clear: both;"></div>
 
@@ -93,17 +93,17 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 <br/> 
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2609.23879) 
 - <i>
-The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </i> 
-<br/> 
-[αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
-<br/> 
-_<font color="orange">arXiv preprint</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
-- <i>
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
 _<font color="orange">arXiv preprint</font>_ [[pdf]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
+- <i>
+The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </i> 
+<br/> 
+[αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
+<br/> 
+_<font color="red">SODA 2027</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 - <i> The Computational Complexity of Finding Second-Order Stationary Points </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis, and I. Panageas.
