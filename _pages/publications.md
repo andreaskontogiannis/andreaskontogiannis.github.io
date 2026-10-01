@@ -10,7 +10,7 @@ redirect_from:
 # Publications
 
 <br/>
-(2026) <i><b> 
+(2027) <i><b> 
 Finding a Positive Index Nash Equilibrium is PPADS-Complete </b> </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, V. Pollatos, and J. Yan.
@@ -18,7 +18,7 @@ Finding a Positive Index Nash Equilibrium is PPADS-Complete </b> </i>
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2609.23879) 
 
 <br/>
-(2026) <i><b> 
+(2027) <i><b> 
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
@@ -26,7 +26,7 @@ The Computational Complexity of Avoiding Strict Saddle Points in Constrained Opt
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
 
 <br/>
-(2026) <i><b> 
+(2027) <i><b> 
 The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </b> </i> 
 <br/> 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
