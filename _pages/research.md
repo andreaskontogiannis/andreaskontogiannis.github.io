@@ -107,7 +107,7 @@ _<font color="red">SODA 2027</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [
 - <i> 
 The Complexity of Computing Nash Equilibria in Colonel Blotto Games </i> 
 <br/> 
-V. Pollatos and <u>A. Kontogiannis</u>.
+V. Pollatos<sup>*</sup> and <u>A. Kontogiannis</u><sup>*</sup>.
 <br/> 
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2610.05956) 
 - <i> The Computational Complexity of Finding Second-Order Stationary Points </i> 
