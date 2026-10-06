@@ -34,6 +34,14 @@ The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a 
 _<font color="red">SODA 2027</font>_ [[paper]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 
 <br/>
+(2027) <i><b> 
+The Complexity of Computing Nash Equilibria in Colonel Blotto Games </b> </i> 
+<br/> 
+V. Pollatos and <u>A. Kontogiannis</u>.
+<br/> 
+_<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2610.05956) 
+
+<br/>
 (2026) <i><b> 
 Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
 <br/> 
