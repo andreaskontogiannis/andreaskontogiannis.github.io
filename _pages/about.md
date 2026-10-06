@@ -24,6 +24,7 @@ In general, my research lies at the interface of theoretical computer science wi
 * No-regret learning under imperfect information
 
 ## Recent News
+- 2026.10: New paper on the complexity of computing Nash equilibria in Colonel Blotto games.
 - 2026.09: New paper on the complexity of finding positive index Nash equilibria. Our result answers an open question posed by Constantinos Daskalakis in his Nevanlinna Prize lecture at the 2018 International Congress of Mathematicians.
 - 2026.09: One paper accepted at NeurIPS 2026.
 - 2026.09: New paper on the complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece. Got accepted at SODA 2027!
