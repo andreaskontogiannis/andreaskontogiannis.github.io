@@ -29,7 +29,7 @@ _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/260
 (2027) <i><b> 
 The Complexity of Computing Nash Equilibria in Colonel Blotto Games </b> </i> 
 <br/> 
-V. Pollatos and <u>A. Kontogiannis</u>.
+V. Pollatos<sup>*</sup> and <u>A. Kontogiannis<sup>*</sup></u>.
 <br/> 
 _<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2610.05956) 
 
