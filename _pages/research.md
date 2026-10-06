@@ -105,7 +105,7 @@ The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a 
 <br/> 
 _<font color="red">SODA 2027</font>_ [[pdf]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 - <i> 
-The Complexity of Computing Nash Equilibria in Colonel Blotto Games </b> </i> 
+The Complexity of Computing Nash Equilibria in Colonel Blotto Games </i> 
 <br/> 
 V. Pollatos and <u>A. Kontogiannis</u>.
 <br/> 
