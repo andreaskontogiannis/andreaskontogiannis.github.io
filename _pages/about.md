@@ -43,5 +43,5 @@ In general, my research lies at the interface of theoretical computer science wi
 
 
 ## Academic Service
-* Reviewing: **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026-present), **AISTATS** (2025-present), **UAI** (2026), **TMLR**
+* Reviewing: **STOC** (2027), **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026-present), **AISTATS** (2025-present), **UAI** (2026), **TMLR**
 
