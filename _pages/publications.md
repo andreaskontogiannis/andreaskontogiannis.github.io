@@ -23,7 +23,7 @@ The Computational Complexity of Avoiding Strict Saddle Points in Constrained Opt
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
-_<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
+_<font color="orange">arXiv preprint</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1kDDlR5sbZLIM4j3Xc3Q5R5DRnUUNcTaV/view?usp=drive_link)
 
 <br/>
 (2027) <i><b> 
