@@ -20,7 +20,8 @@ _<font color="red">I expect to complete my PhD in Summer 2027 and am seeking pos
 
 In general, my research lies at the interface of theoretical computer science with algorithmic game theory, optimization, reinforcement learning, and computational complexity. Current areas of interest include: 
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
-* The computational complexity of hard problems in game theory and non-convex optimization
+* The computational complexity of hard problems in game theory and nonconvex optimization
+* Saddle-point avoidance and second-order stationary points
 * No-regret learning under imperfect information
 
 ## Recent News
